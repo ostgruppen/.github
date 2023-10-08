@@ -6,9 +6,13 @@ Swedish NGO/NPO working to strengthen democracy and to cast light on human right
 
 - [ostgruppen.se/about](https://ostgruppen.se/about/)
 - [Twitter](https://twitter.com/ostgruppen)
-- [Facebook](https://instagram.com/ostgruppen)_
+- [Facebook](https://instagram.com/ostgruppen)
 - [Instagram](https://instagram.com/ostgruppen)
 - [Youtube](https://instagram.com/ostgruppen)
+
+## Collaboration
+
+Want to collaborate with us? Please reach out to @fuggla!
 
 ## Github organisation access
 
