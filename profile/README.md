@@ -12,7 +12,7 @@ Swedish NGO/NPO working to strengthen democracy and to cast light on human right
 
 **Collaboration**
 
-Want to collaborate with us? Please reach out to @fuggla!
+Want to collaborate with us? Please reach out to [@fuggla](https://ostgruppen.se/wp-content/uploads/github-contact)
 
 **Github organisation access**
 
